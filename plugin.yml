@@ -1,0 +1,12 @@
+name: ShareDamage
+version: 1.0
+main: me.arvind.ShareDamage.Main
+author: Arvind
+description: A Minecraft plugin that enables shared damage among players.
+commands:
+  sharestart:
+    description: Enable shared damage.
+    usage: /sharestart
+  sharestop:
+    description: Disable shared damage.
+    usage: /sharestop
